@@ -1,2 +1,2 @@
 # PD_Lotareva_Uliana
-Tas ir mana rāksta darba. Paldies.
+šeir var Aprēķināt nepieciešamu audumu, pogu un rāvējslēdzēju skaits, kopējas izmaksas un audumu daudzums pēc zudumiem.
