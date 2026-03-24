@@ -1,2 +1,2 @@
 # PD_Lotareva_Uliana
-pd
+Tas ir mana rāksta darba. Paldies.
